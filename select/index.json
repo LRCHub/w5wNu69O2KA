@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Unveil（feat. ねんね）",
+  "base_artist": "*Luna",
+  "createdAt": "2026-02-13T20:35:11.374558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "unVEil Feat. Sudie",
+      "artist": "Black Milk feat. Sudie",
+      "has_synced": false,
+      "path": "select/01_unVEil_Feat._Sudie_Black_Milk_feat._Sudie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unveil (feat. Sudie)",
+      "artist": "Black Milk",
+      "has_synced": false,
+      "path": "select/02_Unveil_(feat._Sudie)_Black_Milk.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "unVEIL feat. Sudie (Clean)",
+      "artist": "Black Milk",
+      "has_synced": false,
+      "path": "select/03_unVEIL_feat._Sudie_(Clean)_Black_Milk.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "unVEil (feat. Sudie)",
+      "artist": "Black Milk",
+      "has_synced": false,
+      "path": "select/04_unVEil_(feat._Sudie)_Black_Milk.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "【鳴潮/千咲】*Luna - Unveil feat.ねんね",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/05_【鳴潮_千咲】_Luna_-_Unveil_feat.ねんね_Luna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "【鳴潮/千咲】*Luna - Unveil feat.ねんね",
+      "artist": "♫Original Songs",
+      "has_synced": true,
+      "path": "select/06_【鳴潮_千咲】_Luna_-_Unveil_feat.ねんね_♫Original_Songs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "【鳴潮/千咲】*Luna - Unveil feat.ねんね",
+      "artist": "提供楽曲",
+      "has_synced": true,
+      "path": "select/07_【鳴潮_千咲】_Luna_-_Unveil_feat.ねんね_提供楽曲.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unveil",
+      "artist": "*Luna feat. ねんね",
+      "has_synced": false,
+      "path": "select/pl_01_Unveil_Luna_feat._ねんね.txt"
+    }
+  ]
+}
